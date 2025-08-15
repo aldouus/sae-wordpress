@@ -11,3 +11,6 @@
 - https://wordpress.org/themes
 - https://wordpress.com/themes
 - https://themeforest.net/category/wordpress
+
+### Tools:
+- https://squoosh.app/
